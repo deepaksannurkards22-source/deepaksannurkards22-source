@@ -2,7 +2,9 @@
 # Deepak Sannurkar
 
 Aspiring Data Scientist | Machine Learning Engineer (In Training) | Python | SQL
+
 I am currently on a structured 90-Day Job Ready Challenge focused on building strong foundations in Python, Machine Learning, and problem-solving.
+
 My goal is to become an industry-ready Data Scientist and build scalable AI-driven solutions.
 
 ---
@@ -29,7 +31,7 @@ My goal is to become an industry-ready Data Scientist and build scalable AI-driv
 
 ## 🚀 Long-Term Vision
 
-To grow into a Machine Learning Engineer.
+To grow into a Machine Learning Engineer and future eventually as a Data Scientist.
 
 ---
 
