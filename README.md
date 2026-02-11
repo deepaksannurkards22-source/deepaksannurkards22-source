@@ -1,16 +1,38 @@
 ## Hi there 👋
+# Deepak Sannurkar
 
-<!--
-**deepaksannurkards22-source/deepaksannurkards22-source** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Data Scientist | Machine Learning Engineer (In Training) | Python | SQL
+I am currently on a structured 90-Day Job Ready Challenge focused on building strong foundations in Python, Machine Learning, and problem-solving.
+My goal is to become an industry-ready Data Scientist and build scalable AI-driven solutions.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Technical Skills (Developing & Strengthening)
+
+- Python (Core + Problem Solving)
+- SQL
+- Pandas & NumPy
+- Machine Learning Fundamentals
+- Data Cleaning & Exploratory Data Analysis
+- Git & GitHub
+
+---
+
+## 📈 Current Focus
+
+- Strengthening Python logic and computational thinking
+- Building end-to-end ML projects
+- Practicing data-driven problem solving daily
+- Preparing for entry-level ML/Data Science roles
+
+---
+
+## 🚀 Long-Term Vision
+
+To grow into a Machine Learning Engineer and eventually lead data-driven decision-making as a future Chief Data Officer.
+
+---
+
+## 📫 Connect With Me
+
+LinkedIn: (www.linkedin.com/in/deepak-s-047b29274)
