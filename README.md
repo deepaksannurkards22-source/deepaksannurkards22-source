@@ -31,7 +31,7 @@ My goal is to become an industry-ready Data Scientist and build scalable AI-driv
 
 ## 🚀 Long-Term Vision
 
-To grow into a Machine Learning Engineer and future eventually as a Data Scientist.
+To evolve into a Machine Learning Engineer and eventually lead data strategy and AI-driven innovation at scale.
 
 ---
 
